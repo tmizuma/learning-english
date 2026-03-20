@@ -24,6 +24,10 @@
 - **"take on"** — （負担・リスクを）引き受ける
 - **"What kind of X are we looking at?"** — ミーティングで「Xはどんな感じ？」
 
+## PR
+
+https://github.com/tmizuma/learning-english/pull/1
+
 ## 次回
 
 - Unit 1 のフレーズ復習（ウォームアップで使う）
