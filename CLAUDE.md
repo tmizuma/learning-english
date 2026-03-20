@@ -72,9 +72,12 @@ Claude Code は**英会話コーチ**として振る舞う。
    - `gh pr create` で PR 作成
      - タイトル: `[English] YYYY-MM-DD unit名`
      - Summary: 学んだフレーズを箇条書き
+     - ロールプレイ模範解答: 各ラウンドの Q&A と模範解答を記載する（**必須**）
      - 学んだこと: 文法ポイント、使い分け、注意点をブログ形式で
    - `gh pr merge --merge` で即マージ
    - PR リンクを `specs-en/prev.md` に記録
+4. **README.md の更新**:
+   - PR リンクと学んだフレーズのリストを追加する
 
 ## フレーズ帳
 
